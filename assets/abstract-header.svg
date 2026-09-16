@@ -1,0 +1,31 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#8B8B8B" stroke-linecap="round" stroke-linejoin="round">
+    <!-- long architectural baseline -->
+    <path d="M56 162H1144" stroke-width="1" opacity=".28"/>
+
+    <!-- left geometric system -->
+    <circle cx="184" cy="110" r="62" stroke-width="1.2" opacity=".70"/>
+    <circle cx="184" cy="110" r="34" stroke-width="1" opacity=".34"/>
+    <path d="M122 110H246M184 48V172" stroke-width=".9" opacity=".22"/>
+    <path d="M140 66L228 154M228 66L140 154" stroke-width=".8" opacity=".14"/>
+
+    <!-- center flow -->
+    <path d="M318 132C410 76 500 76 592 132C684 188 774 188 866 132" stroke-width="1.4" opacity=".72"/>
+    <path d="M318 147C410 91 500 91 592 147C684 203 774 203 866 147" stroke-width=".9" opacity=".24"/>
+    <path d="M318 117C410 61 500 61 592 117C684 173 774 173 866 117" stroke-width=".9" opacity=".24"/>
+
+    <!-- micro markers -->
+    <circle cx="392" cy="100" r="2.5" fill="#8B8B8B" stroke="none" opacity=".55"/>
+    <circle cx="592" cy="132" r="3" fill="#8B8B8B" stroke="none" opacity=".78"/>
+    <circle cx="792" cy="162" r="2.5" fill="#8B8B8B" stroke="none" opacity=".55"/>
+
+    <!-- right orbital composition -->
+    <ellipse cx="1008" cy="108" rx="94" ry="48" transform="rotate(-18 1008 108)" stroke-width="1.15" opacity=".64"/>
+    <ellipse cx="1008" cy="108" rx="62" ry="30" transform="rotate(22 1008 108)" stroke-width=".9" opacity=".28"/>
+    <circle cx="1008" cy="108" r="5" stroke-width="1" opacity=".78"/>
+    <path d="M938 52L1072 168" stroke-width=".8" opacity=".16"/>
+
+    <!-- fine registration ticks -->
+    <path d="M56 156V168M1144 156V168M592 156V168" stroke-width="1" opacity=".38"/>
+  </g>
+</svg>
