@@ -4,13 +4,13 @@
 
 Designer, art director, and developer focused on **brand systems, digital products, interactive experiences, and creative technology**.
 
-### ◻️ Design
+### ◇ Design
 Brand identity · Graphic design · Industrial design · Art direction · Motion · 3D
 
 ### ⌘ Development
 React · TypeScript · JavaScript · Vite · Node.js · C# · .NET
 
-### ⚙️ Tools
+### ⚙ Tools
 Figma · Adobe Illustrator · Photoshop · InDesign · Affinity · Blender · Git · GitHub
 
 <p align="center">
@@ -20,5 +20,5 @@ Figma · Adobe Illustrator · Photoshop · InDesign · Affinity · Blender · Gi
 ### ✦ Currently
 Exploring creative development, interactive 3D, motion on the web, open-source tooling, and C#/.NET.
 
-### ↗ Open to
+### ↗︎ Open to
 Selected collaborations and interesting open-source projects.
