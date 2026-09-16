@@ -1,5 +1,22 @@
-- 🔭 I’m currently working on design systems and frontend projects
-- 👯 I’m looking to collaborate on React / TypeScript tools
-- 🤝 I’m looking for help with motion and 3D web workflows
-- 💬 Ask me about design, branding, UI, and frontend
-- 📫 How to reach me: mmspwrbx@gmail.com
+<p align="center">
+  <img src="./assets/abstract-header.svg" alt="Abstract header" width="100%" />
+</p>
+
+Designer, art director, and developer focused on brand systems, digital products, interactive experiences, and creative technology.
+
+Design
+Brand identity · Graphic design · Industrial design · Art direction · Motion · 3D
+
+Development
+React · TypeScript · JavaScript · Vite · Node.js · C# · .NET
+
+Tools
+Figma · Adobe Illustrator · Photoshop · InDesign · Affinity · Blender · Git · GitHub
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="Divider" width="100%" />
+</p>
+
+Currently exploring creative development, interactive 3D, motion on the web, open-source tooling, and C#/.NET.
+
+Open to selected collaborations and interesting open-source projects.
