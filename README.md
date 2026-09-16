@@ -2,4 +2,4 @@
 - 👯 I’m looking to collaborate on React / TypeScript tools
 - 🤝 I’m looking for help with motion and 3D web workflows
 - 💬 Ask me about design, branding, UI, and frontend
-- 📫 How to reach me: yourmail@example.com
+- 📫 How to reach me: mmspwrbx@gmail.com
