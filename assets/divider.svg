@@ -1,15 +1,9 @@
-<svg width="1200" height="64" viewBox="0 0 1200 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="64" fill="#0D1117"/>
-  <defs>
-    <linearGradient id="line" x1="0" y1="32" x2="1200" y2="32" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#7EE787" stop-opacity="0"/>
-      <stop offset="0.22" stop-color="#7EE787" stop-opacity="0.6"/>
-      <stop offset="0.5" stop-color="#79C0FF" stop-opacity="0.9"/>
-      <stop offset="0.78" stop-color="#D2A8FF" stop-opacity="0.6"/>
-      <stop offset="1" stop-color="#D2A8FF" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <path d="M72 32H1128" stroke="url(#line)" stroke-width="1.5" stroke-linecap="round"/>
-  <circle cx="600" cy="32" r="5" fill="#0D1117" stroke="#79C0FF" stroke-width="1.5"/>
-  <circle cx="600" cy="32" r="1.5" fill="#79C0FF"/>
+<svg width="1200" height="44" viewBox="0 0 1200 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#8B8B8B" stroke-linecap="round">
+    <path d="M72 22H1128" stroke-width="1" opacity=".22"/>
+    <path d="M430 22H770" stroke-width="1.2" opacity=".58"/>
+    <circle cx="600" cy="22" r="4.5" stroke-width="1" opacity=".72"/>
+    <path d="M600 12V32M590 22H610" stroke-width=".9" opacity=".30"/>
+    <path d="M72 18V26M1128 18V26" stroke-width="1" opacity=".34"/>
+  </g>
 </svg>
