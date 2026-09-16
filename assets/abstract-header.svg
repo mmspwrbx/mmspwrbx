@@ -1,0 +1,48 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="260" rx="24" fill="#0D1117"/>
+  <defs>
+    <linearGradient id="g1" x1="80" y1="40" x2="1120" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7EE787"/>
+      <stop offset="0.5" stop-color="#79C0FF"/>
+      <stop offset="1" stop-color="#D2A8FF"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="1030" y1="30" x2="930" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="g3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 130) rotate(90) scale(120 240)">
+      <stop stop-color="#7EE787" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#7EE787" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="258" rx="23" stroke="url(#g1)" stroke-opacity="0.25"/>
+  <ellipse cx="220" cy="130" rx="240" ry="120" fill="url(#g3)"/>
+  <circle cx="1020" cy="72" r="78" fill="url(#g2)"/>
+  <circle cx="1018" cy="72" r="52" stroke="#C9D1D9" stroke-opacity="0.18"/>
+  <circle cx="1018" cy="72" r="28" stroke="#C9D1D9" stroke-opacity="0.18"/>
+
+  <path d="M72 176C140 128 190 108 260 122C334 137 368 182 440 192C513 202 565 152 636 138C715 122 763 154 832 165C905 176 964 155 1128 94" stroke="url(#g1)" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M72 196C135 152 194 141 253 151C314 161 362 208 435 214C497 219 554 179 624 168C697 157 768 184 841 190C924 197 1002 174 1128 126" stroke="#C9D1D9" stroke-opacity="0.28" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="2 10"/>
+
+  <g opacity="0.6">
+    <circle cx="138" cy="76" r="3" fill="#7EE787"/>
+    <circle cx="190" cy="92" r="2" fill="#79C0FF"/>
+    <circle cx="262" cy="64" r="3" fill="#D2A8FF"/>
+    <circle cx="334" cy="84" r="2" fill="#7EE787"/>
+    <circle cx="418" cy="68" r="3" fill="#79C0FF"/>
+    <circle cx="506" cy="90" r="2" fill="#D2A8FF"/>
+    <circle cx="588" cy="70" r="3" fill="#7EE787"/>
+  </g>
+
+  <g opacity="0.18">
+    <path d="M868 156L935 89" stroke="#C9D1D9"/>
+    <path d="M935 89L1005 124" stroke="#C9D1D9"/>
+    <path d="M1005 124L948 188" stroke="#C9D1D9"/>
+    <path d="M948 188L868 156" stroke="#C9D1D9"/>
+  </g>
+
+  <text x="72" y="92" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="600">Tema Belenkov</text>
+  <text x="72" y="124" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Designer · Art Director · Developer</text>
+  <text x="72" y="154" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Brand systems, interactive experiences, creative technology</text>
+</svg>
