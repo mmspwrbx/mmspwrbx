@@ -17,6 +17,6 @@ Figma · Adobe Illustrator · Photoshop · InDesign · Affinity · Blender · Gi
   <img src="./assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
-Currently exploring creative development, interactive 3D, motion on the web, open-source tooling, and C#/.NET.
+Currently exploring creative development, interactive 3D, motion on the web, open-source tooling, and C#/.NET..
 
 Open to selected collaborations and interesting open-source projects.
