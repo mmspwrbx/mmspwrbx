@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/abstract-header.svg" alt="Abstract header" width="100%" />
-</p>
-
 Designer, art director, and developer focused on **brand systems, digital products, interactive experiences, and creative technology**.
 
 ### ◇ Design
